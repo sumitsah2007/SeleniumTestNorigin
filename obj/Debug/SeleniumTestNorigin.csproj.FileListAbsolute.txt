@@ -1,0 +1,15 @@
+C:\Users\Bruker\documents\visual studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\Debug\SeleniumTestNorigin.dll
+C:\Users\Bruker\documents\visual studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\Debug\SeleniumTestNorigin.pdb
+C:\Users\Bruker\documents\visual studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\Debug\nunit.framework.dll
+C:\Users\Bruker\documents\visual studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Bruker\documents\visual studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\Bruker\documents\visual studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\Debug\WebDriver.dll
+C:\Users\Bruker\documents\visual studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\Debug\WebDriver.Support.dll
+C:\Users\Bruker\documents\visual studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\Debug\nunit.framework.xml
+C:\Users\Bruker\documents\visual studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\Bruker\documents\visual studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\Bruker\documents\visual studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\Debug\WebDriver.xml
+C:\Users\Bruker\documents\visual studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\Debug\WebDriver.Support.xml
+C:\Users\Bruker\documents\visual studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\obj\Debug\SeleniumTestNorigin.dll
+C:\Users\Bruker\documents\visual studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\obj\Debug\SeleniumTestNorigin.pdb
+C:\Users\Bruker\Documents\Visual Studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\obj\Debug\SeleniumTestNorigin.csprojResolveAssemblyReference.cache

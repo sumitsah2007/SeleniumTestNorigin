@@ -1,0 +1,14 @@
+C:\Users\Bruker\Documents\Visual Studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\x86\Release\SeleniumTestNorigin.dll
+C:\Users\Bruker\Documents\Visual Studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\x86\Release\SeleniumTestNorigin.pdb
+C:\Users\Bruker\Documents\Visual Studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\x86\Release\nunit.framework.dll
+C:\Users\Bruker\Documents\Visual Studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\x86\Release\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Bruker\Documents\Visual Studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\x86\Release\ThoughtWorks.Selenium.Core.dll
+C:\Users\Bruker\Documents\Visual Studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\x86\Release\WebDriver.dll
+C:\Users\Bruker\Documents\Visual Studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\x86\Release\WebDriver.Support.dll
+C:\Users\Bruker\Documents\Visual Studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\x86\Release\nunit.framework.xml
+C:\Users\Bruker\Documents\Visual Studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\x86\Release\Selenium.WebDriverBackedSelenium.xml
+C:\Users\Bruker\Documents\Visual Studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\x86\Release\ThoughtWorks.Selenium.Core.xml
+C:\Users\Bruker\Documents\Visual Studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\x86\Release\WebDriver.xml
+C:\Users\Bruker\Documents\Visual Studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\x86\Release\WebDriver.Support.xml
+C:\Users\Bruker\Documents\Visual Studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\obj\x86\Release\SeleniumTestNorigin.dll
+C:\Users\Bruker\Documents\Visual Studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\obj\x86\Release\SeleniumTestNorigin.pdb
