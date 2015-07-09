@@ -41,7 +41,7 @@ namespace SeleniumTestNorigin
         }
 
         //Method to check if existence of an element on current page
-        private static bool ExistsElement(IWebDriver driver, LocatorType locatortype, string locator)
+        public static bool ExistsElement(IWebDriver driver, LocatorType locatortype, string locator)
         {
             try
             {

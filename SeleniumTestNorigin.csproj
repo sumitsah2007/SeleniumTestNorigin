@@ -87,11 +87,14 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="AnnoymousAccess.cs" />
     <Compile Include="ControlAccessMethods.cs" />
     <Compile Include="HomePage.cs" />
     <Compile Include="LoginTests.cs" />
     <Compile Include="ParentalControl.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SearchTests.cs" />
+    <Compile Include="SettingsTests.cs" />
     <Compile Include="TVODPurchaseTests.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="true">
-  <TopNode>[0-1021]C:\Users\Bruker\Documents\Visual Studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\Debug\SeleniumTestNorigin.dll</TopNode>
-  <SelectedNode>[0-1008]SeleniumTestNorigin.ParentalControlTests</SelectedNode>
+  <TopNode>[0-1035]C:\Users\Bruker\Documents\Visual Studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\Debug\SeleniumTestNorigin.dll</TopNode>
+  <SelectedNode>[0-1035]C:\Users\Bruker\Documents\Visual Studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\Debug\SeleniumTestNorigin.dll</SelectedNode>
   <ExcludeCategories>false</ExcludeCategories>
   <Nodes>
-    <Node UniqueName="[0-1021]C:\Users\Bruker\Documents\Visual Studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\Debug\SeleniumTestNorigin.dll" Expanded="true" />
-    <Node UniqueName="[0-1022]SeleniumTestNorigin" Expanded="true" />
-    <Node UniqueName="[0-1014]SeleniumTestNorigin.ParentalControlTests.ParentalControl_100_13_4" Checked="true" />
+    <Node UniqueName="[0-1035]C:\Users\Bruker\Documents\Visual Studio 2012\Projects\SeleniumTestNorigin\SeleniumTestNorigin\bin\Debug\SeleniumTestNorigin.dll" Expanded="true" />
+    <Node UniqueName="[0-1036]SeleniumTestNorigin" Expanded="true" />
+    <Node UniqueName="[0-1000]SeleniumTestNorigin.AnnoymousAccess" Expanded="true" />
+    <Node UniqueName="[0-1007]SeleniumTestNorigin.AnnoymousAccess.AnnoymousAccess_100_1_7" Checked="true" />
+    <Node UniqueName="[0-1009]SeleniumTestNorigin.LoginTests" Expanded="true" />
+    <Node UniqueName="[0-1017]SeleniumTestNorigin.ParentalControlTests" Expanded="true" />
+    <Node UniqueName="[0-1024]SeleniumTestNorigin.SettingsTests" Expanded="true" />
+    <Node UniqueName="[0-1029]SeleniumTestNorigin.TVODPurchaseTests" Expanded="true" />
   </Nodes>
 </VisualState>
